@@ -39,10 +39,6 @@ export default function Home() {
               Get started by editing <code>src/pages/index.js</code>.
             </li>
             <li>Teste de prettier</li> <li>Mais um teste de prettier</li>
-            <li>Teste de prettier</li>
-            <li>Teste de prettier</li> <li>Mais um teste de prettier</li>
-            <li>Teste de prettier</li>
-            <li>Teste de prettier</li> <li>Mais um teste de prettier</li>
           </ol>
 
           <div className={styles.ctas}>
