@@ -43,7 +43,7 @@ export default function Home() {
             <li>Teste de prettier</li> <li>Mais um teste de prettier</li>
             <li>Teste de prettier</li>
             <li>Teste de prettier</li> <li>Mais um teste de prettier</li>
-            <li>Teste de DAVID</li> 
+            <li>Teste de DAVID</li>
           </ol>
 
           <div className={styles.ctas}>
